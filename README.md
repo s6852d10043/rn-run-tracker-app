@@ -1,10 +1,5 @@
-# rn-run-tracker-app_Final (v.1.0.0)
+# rn-run-tracker-app
 
-<!--
-<kbd><img width="250" src="https://github.com/user-attachments/assets/9ddcdd08-c808-425b-91f9-c1283a98ff8f" /></kbd>
+<kbd><img width="250" alt="Screenshot_2026-05-30-23-33-55-70_f73b71075b1de7323614b647fe394240" src="https://github.com/user-attachments/assets/6dc7a713-db10-4e0b-82d6-e8e54b180b07" /></kbd>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<kbd><img width="250" src="https://github.com/user-attachments/assets/460444a8-de2d-4e12-9ddd-86aedf930e13" /></kbd>
-<br><br>
-<kbd><img width="250" src="https://github.com/user-attachments/assets/5891dd3e-4cb7-41af-8d1d-4bb465e030e7" /></kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<kbd><img width="250" src="https://github.com/user-attachments/assets/a653d6e5-d675-4e76-8a67-5ca53c449a17" /></kbd> -->
+<kbd><img width="250" alt="Screenshot_2026-05-30-23-34-00-25_f73b71075b1de7323614b647fe394240" src="https://github.com/user-attachments/assets/d8769c47-6d43-408e-9ab0-f4f11b70f4a6"  />
